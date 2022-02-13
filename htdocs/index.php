@@ -1,7 +1,7 @@
 <?php
 
     //定数読み込み
-    require_once("/home/hackpic/data/define.php");
+    require_once("../data/define.php");
 
     /**
     * ヴィトーリアグループ 第一回ハッカソン [4]画像モザイク処理--中-上級向け！　ライブラリあり
